@@ -31,3 +31,5 @@ Web Crawling, Web Scraping, Data cleaning, Python, Programming, Pandas, NumPy, B
     selenium.common.exceptions / NoSuchElementException
     csv
     openpyxl
+
+Click [Here](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Self-storage%20companies%20in%20the%20UK/All%20Self%20Storage%20Companies%20in%20the%20UK.ipynb) to go to the code
