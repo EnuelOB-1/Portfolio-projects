@@ -15,6 +15,12 @@ This project uses Beautiful Soup and Selenium  to scrape publicly available data
 
 
 
+## Marketing and Retail Analytics
+
+&nbsp;&nbsp;  
+
+
+
 ## Power Pivot, Power Quer and DAX
 
 &nbsp;&nbsp;  
@@ -22,3 +28,6 @@ This project uses Beautiful Soup and Selenium  to scrape publicly available data
 
 
 ## Business Statistics with Excel
+
+&nbsp;&nbsp;  
+
