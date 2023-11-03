@@ -7,7 +7,7 @@ All my portfolio projects
 
 
 
-## [Web Scraping with Beautiful Soup and Selenium](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Self-storage%20companies%20in%20the%20UK/README.md)
+## [Web Scraping with Beautiful Soup and Selenium](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/README.md)
 
 This project uses Beautiful Soup and Selenium  to scrape publicly available data about specific businesses on the internet
 
