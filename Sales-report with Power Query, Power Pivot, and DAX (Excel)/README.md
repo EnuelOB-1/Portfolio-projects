@@ -1,5 +1,5 @@
 # In this Project
-The entire project was done in *Excel*; from Extraction-Transformation-Loading **ETL**, to generating an "easy to follow" report.
+The entire project was done in *Excel*; from Extraction-Transformation-Loading **ETL**, to generating an "easy-to-follow" report.
 
 
 &nbsp;&nbsp;  
@@ -14,6 +14,11 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
     * Duplicating and `Referencing` Queries
     * `Grouping` and `Aggregating` Data
 4.	Creating the Data Model & Relationship Between Tables
-5.	Creating Calculated Columns and Measures with DAX
-7.	Using Pivot Tables and Slicers
+5.	Creating Calculated Columns and DAX Measures
+7.	Using Pivot Tables to genetate a simple "easy-to-follow" report
+
+
+
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
 
