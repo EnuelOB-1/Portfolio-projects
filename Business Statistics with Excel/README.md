@@ -17,7 +17,7 @@ These projects involve the application of statistical medoths in solving everyda
 
 
 ### Keywords:
-Linear egression, Regression equation, Prediction, Shelf facings recommendation, Price comparison, ANOVA
+Linear egression, Regression equation, sales prediction, Shelf facings recommendation, Price comparison, ANOVA
 
 
 &nbsp;&nbsp;  
