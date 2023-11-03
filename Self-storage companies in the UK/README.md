@@ -24,7 +24,9 @@ To get the data of interest (Company name, Name of the People, Address) for each
 1. Crawl through all 20pages of search result scraping the links to each company’s page (i.e. 20links per page x 20pages)
 2. Follow everyone of these 400links, crawling through each page and scraping company name, name of people and address for each Self-storage company.
 3. Saving the final result as an Excel file.
-&nbsp;&nbsp;
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 ### A summary of the project's success
