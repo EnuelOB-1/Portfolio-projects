@@ -21,7 +21,7 @@ This project uses Beautiful Soup and Selenium  to scrape publicly available data
 
 
 
-## Power Pivot, Power Quer and DAX
+## [Sales-report with Power Pivot, Power Query and DAX (Excel)](https://github.com/EnuelOB-1/Portfolio-projects/tree/main/Sales-report%20with%20Power%20Query%20and%20Power%20Pivot%20(Excel))
 
 &nbsp;&nbsp;  
 
