@@ -24,11 +24,11 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
 
 
 
-### The Data Model
+### Data Model
 <img
   src="https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/Data%20model.jpg"
-  alt="Alt text"
-  title="The Data MOdel"
+  alt="Data Model"
+  title="Data Model"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 &nbsp;&nbsp;  
@@ -36,13 +36,23 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
 
 
 
-### The Sales Report
-[](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/Report.jpg)
-
+### Sales Report
+<img
+  src="https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/Report.jpg"
+  alt="Sales Report"
+  title="Sales Report"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
+
+
+### Excel Workbook
+
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 
