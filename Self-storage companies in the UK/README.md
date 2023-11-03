@@ -6,6 +6,8 @@
 ### Project Goals
 Collect publicly available data from Companies House - GOV.UK on Self-storage companies in the UK.
 &nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 ### Details about  my contribution to the project
@@ -14,6 +16,8 @@ Entering the search query "self storage" at https://find-and-update.company-info
 * The links to all 20pages of search results are identical with the exception of the page number at the end.
 * Each company name is hyperlinked to respective company pages holding the data we needed.
 &nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 To get the data of interest (Company name, Name of the People, Address) for each of these 400 companies, I wrote a Python script to do the followings:
@@ -26,11 +30,15 @@ To get the data of interest (Company name, Name of the People, Address) for each
 ### A summary of the project's success
 Completed: 21st August, 2021
 &nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 ### Keywords:
 Web Crawling, Web Scraping, Data cleaning, Python, Programming, Pandas, NumPy, Beautiful soup, Selenium, Jupyter notebook, Chrome
 &nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
 
 
 ### Requirements:
