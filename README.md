@@ -21,7 +21,7 @@ Collection of data on **_self storage companies_** in the UK  via web scraping. 
 
 
 
-## [Sales-report with Power Query, Power Pivot, and DAX (Excel)](https://github.com/EnuelOB-1/Portfolio-projects/tree/main/Sales-report%20with%20Power%20Query%20and%20Power%20Pivot%20(Excel))
+## [Sales-report with Power Query, Power Pivot, and DAX (Excel)](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/README.md)
 
 Analysis of sales in Microsoft Excel
 
