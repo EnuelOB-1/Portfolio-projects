@@ -22,3 +22,30 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 
+
+
+### The Data Model
+<img
+  src=""
+  alt="Alt text"
+  title="The Data MOdel"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
+
+
+### The Sales Report
+[]()
+
+
+
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
+
+
+**_PS:_** Excel file and all the data have been included in this repository
+<!--Click [*Here*]() to view the full code-->
+
