@@ -8,7 +8,7 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
 
 1.	Connecting Data from Multiple files, Another Excel workbook, the web, etc
 2.	Appropriate transformations of said data in Power Query including:
-    * Data cleaning
+    * Data cleaning (`remove columns`, `remove rows`, `split columns`, change `datatypes` etc)
     * Combining Data from multiple tables with `Merge Queries`
     * Stacking Data into One Table with `Append Queries`
     * Duplicating and `Referencing` Queries
