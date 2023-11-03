@@ -8,8 +8,8 @@ The entire project was done in *Excel*; from Extraction-Transformation-Loading *
 
 1.	Connecting Data from Multiple files, Another Excel workbook, the web, etc
 2.	Appropriate transformations of said data in Power Query including:
-  a) Data cleaning
-  b.  Combining Data from Multiple Tables with Merge Queries
+    * Data cleaning
+  * Combining Data from Multiple Tables with Merge Queries
   b) Stack Data into One Table with Append Queries
   c) Duplicating and Referencing Queries
   d) Grouping and Aggregating Data
