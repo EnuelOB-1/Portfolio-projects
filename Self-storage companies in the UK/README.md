@@ -1,4 +1,4 @@
-# Project: Self-storage Companies in the UK
+# Self-storage Companies in the UK
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 
