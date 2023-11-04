@@ -59,5 +59,3 @@ The entire project was done in Excel; from Extraction-Transformation-Loading **_
 
 
 **_PS:_** Excel file and all the data have been included in this repository
-<!--Click [*Here*]() to view the full code-->
-
