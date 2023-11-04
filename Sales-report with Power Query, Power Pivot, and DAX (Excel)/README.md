@@ -1,10 +1,12 @@
-# In this Project
+# Sales Report with Power Query, Power Pivot, and DAX (Excel)
 The entire project was done in *Excel*; from Extraction-Transformation-Loading **ETL**, to generating an "easy-to-follow" report.
 
 
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 
+
+# Project Obective
 
 1.	Connecting Data from Multiple files, Another Excel workbook, the web, etc
 2.	Appropriate transformations of said data in Power Query including:
