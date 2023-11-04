@@ -1,5 +1,5 @@
 # Sales Report with Power Query, Power Pivot, and DAX (Excel)
-The entire project was done in *Excel*; from Extraction-Transformation-Loading **ETL**, to generating an "easy-to-follow" report.
+The entire project was done in Excel; from Extraction-Transformation-Loading **_ETL_**, to generating an "easy-to-follow" report.
 
 
 &nbsp;&nbsp;  
