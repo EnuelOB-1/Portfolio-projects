@@ -1,6 +1,6 @@
 # Businesss Statistics with Excel
 
-These projects involve the application of statistical medoths in solving everyday business problems using Excel's Data Analysis add-in.
+Application of statistical medoths in solving everyday business problems using Excel's Data Analysis add-in.
 
 
 &nbsp;&nbsp;  
