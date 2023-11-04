@@ -24,3 +24,7 @@ Linear egression, Regression equation, sales prediction, Shelf facings recommend
 &nbsp;&nbsp;  
 
 
+
+
+**_PS:_** All Excel files have been included in this repository
+
