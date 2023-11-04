@@ -25,6 +25,7 @@ Analysis of sales in Microsoft Excel
 
 ## [Business Statistics with Excel](https://github.com/EnuelOB-1/Portfolio-projects/tree/main/Business%20Statistics%20with%20Excel)
 
+Application of statistical medoths in solving everyday business problems using Excel's Data Analysis add-in.
 
 &nbsp;&nbsp;  
 
