@@ -9,7 +9,7 @@ Application of statistical medoths in solving everyday business problems using E
 
 ### Business Objectives:
 1. Kellog's Corn Flakes Shelf Facings Recommendation
-2. Prediction of sales : Schnuck’s Supermarket weekly ads spend to sales correlation
+2. Schnuck’s Supermarket weekly ads spend to sales correlation (Prediction of sales)
 3. Supermarkets Price Comparison using One-way ANOVA
 
 &nbsp;&nbsp;  
