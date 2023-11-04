@@ -50,7 +50,8 @@ The entire project was done in Excel; from Extraction-Transformation-Loading **_
 &nbsp;&nbsp;  
 
 
-### Excel Workbook
+### Keywords
+ETL, Data cleaning, Power Query, Power Pivot, Merge queries, Append queries, Data visualization
 
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
