@@ -15,12 +15,6 @@ Collection of data on **_self storage companies_** in the UK  via web scraping. 
 
 
 
-## Marketing and Retail Analytics
-
-&nbsp;&nbsp;  
-
-
-
 ## [Sales-report with Power Query, Power Pivot, and DAX (Excel)](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/README.md)
 
 Analysis of sales in Microsoft Excel
@@ -31,5 +25,13 @@ Analysis of sales in Microsoft Excel
 
 ## Business Statistics with Excel
 
+
 &nbsp;&nbsp;  
+
+
+## Marketing and Retail Analytics
+
+&nbsp;&nbsp;  
+
+
 
