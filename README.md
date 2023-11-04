@@ -9,7 +9,7 @@ All my portfolio projects
 
 ## [Web Scraping with Beautiful Soup and Selenium](https://github.com/EnuelOB-1/Portfolio-projects/blob/main/Sales-report%20with%20Power%20Query%2C%20Power%20Pivot%2C%20and%20DAX%20(Excel)/README.md)
 
-Collection of data on **_self storage companies_** in the UK  via web scraping. This project uses Python, Beautiful Soup, Selenium and Google chrome.
+Collection of data on **_self storage companies in the UK_**  via web scraping. This project uses Python, Beautiful Soup, Selenium and Google chrome.
 
 &nbsp;&nbsp;  
 
